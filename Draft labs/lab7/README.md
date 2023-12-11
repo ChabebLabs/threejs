@@ -1,0 +1,1 @@
+# Lab 7 - Importer un objet avec une animations

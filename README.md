@@ -1,1 +1,8 @@
-# threejs-tenserflow
+- [Introdution](labs/lab0/README.md) : Une introduction à la 3D, webgl et three.js ainsi que les conceptes de base.
+- [Première scène](labs/lab1/README.md) : Créer une scène avec une caméra et la lumière, et ajouter un cube qui tourne.
+- [Ajouter un skybox](labs/lab2/README.md) : Ajouter un skybox à la scène. les skybox sont des objets 3D qui sont pré-calculés et qui sont utilisés pour l'éclairage.
+- [Ajouter de la texture](labs/lab3/README.md) : Ajouter de la texture à au cube et ajuster la lumière.
+- [Comprendre la lumière](labs/lab4/README.md) : Explorer les différents types de lumière.
+- Comprendre la caméra : Explorer les différents types de caméra.
+- Ajouter un objet complexe : Ajouter un objet complexe.
+- Ajouter des animation à un objet complexe : Ajouter des animations à un objet complexe.
